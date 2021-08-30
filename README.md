@@ -72,3 +72,5 @@ You've explored a ton of fun CSS properties in this lab, but the thankfully ther
 * box-shadow
 * text-shadow
 * border-image
+
+[This lab was taken from the lab that was created by Uperline Code](https://github.com/upperlinecode/NewYorkNewspaper).
